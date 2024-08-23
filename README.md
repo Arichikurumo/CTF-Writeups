@@ -1,0 +1,2 @@
+# CTF Writeups
+This repository contains detailed writeups for various Capture the Flag (CTF) challenges, focused on IT security. Each writeup explains the steps taken to solve challenges across different categories, such as web exploitation, reverse engineering, cryptography, forensics, and more. The goal is to share knowledge and techniques for tackling security-related problems, helping both beginners and experienced players improve their skills.
